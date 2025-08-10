@@ -1,0 +1,20 @@
+*Tentara*
+A. Latihan fisik
+  a. Angkat beban
+  b.kardio
+B. Pola makan
+  a. Protein
+  b. Karbohidrat
+  c. Lemak
+C. Daftar Latihan
+  a. Senin
+    1. biceps
+    2. triceps
+  b. Selasa
+    1. Abs
+  c. Rabu
+    1. Hamstring
+    2. Quadriceps
+    3. Gluteus
+    4. Betis
+  
